@@ -166,7 +166,6 @@ export default {
 	&__part{
 		max-width: 260px;
 		margin-bottom: 26px;
-		height: fit-content;
 		display: inline-block;
 
 		@media (max-width: 576px) {
